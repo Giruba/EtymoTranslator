@@ -1,0 +1,15 @@
+C:\Users\gibeulah\source\repos\BingItON_1\BingItON_1\bin\Debug\SmartBing.exe.config
+C:\Users\gibeulah\source\repos\BingItON_1\BingItON_1\bin\Debug\SmartBing.exe
+C:\Users\gibeulah\source\repos\BingItON_1\BingItON_1\bin\Debug\SmartBing.pdb
+C:\Users\gibeulah\source\repos\BingItON_1\BingItON_1\obj\Debug\BingItON_1.Form1.resources
+C:\Users\gibeulah\source\repos\BingItON_1\BingItON_1\obj\Debug\SmartBing.Properties.Resources.resources
+C:\Users\gibeulah\source\repos\BingItON_1\BingItON_1\obj\Debug\SmartBing.csproj.GenerateResource.Cache
+C:\Users\gibeulah\source\repos\BingItON_1\BingItON_1\obj\Debug\SmartBing.csproj.CoreCompileInputs.cache
+C:\Users\gibeulah\source\repos\BingItON_1\BingItON_1\obj\Debug\SmartBing.exe
+C:\Users\gibeulah\source\repos\BingItON_1\BingItON_1\obj\Debug\SmartBing.pdb
+C:\Users\gibeulah\source\repos\BingItON_1\BingItON_1\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\gibeulah\source\repos\BingItON_1\BingItON_1\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\gibeulah\source\repos\BingItON_1\BingItON_1\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\gibeulah\source\repos\BingItON_1\BingItON_1\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\gibeulah\source\repos\BingItON_1\BingItON_1\obj\Debug\SmartBing.csproj.ResolveComReference.cache
+C:\Users\gibeulah\source\repos\BingItON_1\BingItON_1\obj\Debug\SmartBing.csprojAssemblyReference.cache

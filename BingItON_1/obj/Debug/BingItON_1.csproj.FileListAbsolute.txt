@@ -1,0 +1,10 @@
+C:\Users\gibeulah\source\repos\BingItON_1\BingItON_1\bin\Debug\BingItON_1.exe.config
+C:\Users\gibeulah\source\repos\BingItON_1\BingItON_1\bin\Debug\BingItON_1.exe
+C:\Users\gibeulah\source\repos\BingItON_1\BingItON_1\bin\Debug\BingItON_1.pdb
+C:\Users\gibeulah\source\repos\BingItON_1\BingItON_1\obj\Debug\BingItON_1.csprojResolveAssemblyReference.cache
+C:\Users\gibeulah\source\repos\BingItON_1\BingItON_1\obj\Debug\BingItON_1.Form1.resources
+C:\Users\gibeulah\source\repos\BingItON_1\BingItON_1\obj\Debug\BingItON_1.Properties.Resources.resources
+C:\Users\gibeulah\source\repos\BingItON_1\BingItON_1\obj\Debug\BingItON_1.csproj.GenerateResource.Cache
+C:\Users\gibeulah\source\repos\BingItON_1\BingItON_1\obj\Debug\BingItON_1.csproj.CoreCompileInputs.cache
+C:\Users\gibeulah\source\repos\BingItON_1\BingItON_1\obj\Debug\BingItON_1.exe
+C:\Users\gibeulah\source\repos\BingItON_1\BingItON_1\obj\Debug\BingItON_1.pdb
