@@ -2,7 +2,7 @@
 Author : Giruba Beulah SE
 
 # EtymoTranslator
-A very very basic example of etymology based limited dictionary translator
+A very simple etymology based limited dictionary translator
 
 Given an English word, it tries to find the translation, etymology, phonetic transliteration, gender neutrality, 
 morphology, a picture and some interesting fact about the word in the selected target language, Tamil, Spanish , Hindi. [DropDown selection]
